@@ -6,7 +6,7 @@
   "cover": "https://mangadex.org/covers/677fb60b-2deb-46db-9ece-704f6144faf0/f28c3cfe-3f3b-44e0-bc43-f0e7061bb8ba.jpg",
   "chapters": {
     "1": {
-      "title": "",
+      "title": "The Dumb Prefect and the High School Girl with a Short Skirt",
       "volume": "1",
       "last_updated": "1554059544",
       "groups": {
@@ -22,11 +22,35 @@
       }
     },
     "3": {
-      "title": "The Story About the High School Girl's Friends Hanging out with the Dumb Prefect",
+      "title": "The High School Girl's Friends Hanging out with the Dumb Prefect",
       "volume": "1",
       "last_updated": "1559762345",
       "groups": {
         "Fukashigi": "/proxy/api/imgchest/chapter/qe4gzb53o7j"
+      }
+    },
+    "4": {
+      "title": "The Dumb Prefect and the Health Committee",
+      "volume": "1",
+      "last_updated": "1568661895",
+      "groups": {
+        "Fukashigi": "/proxy/api/imgchest/chapter/wl7llb2j67x"
+      }
+    },
+    "5": {
+      "title": "The Dumb Prefect and the Book Committee",
+      "volume": "1",
+      "last_updated": "1571599654",
+      "groups": {
+        "Black Cat Scanlations & Tonari no Scanlation": "/proxy/api/imgchest/chapter/6eyr3omoeyp"
+      }
+    },
+    "6": {
+      "title": "The Dumb Prefect and What Happened at Lunch time",
+      "volume": "1",
+      "last_updated": "1776713524",
+      "groups": {
+        "Black Cat Scanlations & Tonari no Scanlation": "/proxy/api/imgchest/chapter/agyvgo939y8"
       }
     }
   }
