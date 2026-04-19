@@ -6,11 +6,27 @@
   "cover": "https://mangadex.org/covers/677fb60b-2deb-46db-9ece-704f6144faf0/f28c3cfe-3f3b-44e0-bc43-f0e7061bb8ba.jpg",
   "chapters": {
     "1": {
-      "title": "1",
+      "title": "",
       "volume": "1",
       "last_updated": "1554059544",
       "groups": {
         "Fukashigi": "/proxy/api/imgchest/chapter/9p4nqbjw54n"
+      }
+    },
+    "2": {
+      "title": "Going Home with the Dumb Prefect",
+      "volume": "1",
+      "last_updated": "1556824537",
+      "groups": {
+        "Fukashigi": "/proxy/api/imgchest/chapter/pg732v5234r"
+      }
+    },
+    "3": {
+      "title": "The Story About the High School Girl's Friends Hanging out with the Dumb Prefect",
+      "volume": "1",
+      "last_updated": "1559762345",
+      "groups": {
+        "Fukashigi": "/proxy/api/imgchest/chapter/qe4gzb53o7j"
       }
     }
   }
