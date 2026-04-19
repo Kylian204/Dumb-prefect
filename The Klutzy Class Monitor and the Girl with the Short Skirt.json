@@ -4,5 +4,14 @@
   "artist": "Yokota Takuma",
   "author": "Yokota Takuma",
   "cover": "https://mangadex.org/covers/677fb60b-2deb-46db-9ece-704f6144faf0/f28c3cfe-3f3b-44e0-bc43-f0e7061bb8ba.jpg",
-  "chapters": {}
+  "chapters": {
+    "1": {
+      "title": "1",
+      "volume": "1",
+      "last_updated": "1554059544",
+      "groups": {
+        "Fukashigi": "/proxy/api/imgchest/chapter/9p4nqbjw54n"
+      }
+    }
+  }
 }
